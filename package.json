@@ -27,12 +27,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/marciohelenowebsite/loc8r2.git"
+    "url": "git+ssh://git@github.com:marcioheleno/meanEstudo.git"
   },
   "author": "marcio heleno",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/marciohelenowebsite/loc8r2/issues"
+    "url": "https://git@github.com:marcioheleno/meanEstudo/issues"
   },
-  "homepage": "https://gitlab.com/marciohelenowebsite/loc8r2#README"
+  "homepage": "https://git@github.com:marcioheleno/meanEstudo#README"
 }
