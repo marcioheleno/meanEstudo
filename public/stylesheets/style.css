@@ -1,0 +1,18 @@
+@import url(../bootstrap/dist/css/bootstrap.css);
+@import url(bootstrap-amalia.css);
+.review {
+  padding-bottom: 5px; }
+
+.panel-body.review-container {
+  padding-top: 0; }
+
+.review-header {
+  margin-bottom: 10px; }
+
+.reviewAuthor {
+  margin: 0 5px; }
+
+.reviewTimestamp {
+  color: #cccccc; }
+
+/*# sourceMappingURL=style.css.map */
